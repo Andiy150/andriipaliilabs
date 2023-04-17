@@ -1,5 +1,5 @@
 # lab2
-Ëàáîëàòîðíà 2
+Lab 2
 
 git clone https://github.com/Andiy150/lab2
 
@@ -13,3 +13,5 @@ Changes were made on a separate branch
 changes were made on one file in separate branches, thats why there was a conflict
 
 git pull
+
+![alt text](/download.jpg)
