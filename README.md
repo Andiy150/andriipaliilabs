@@ -10,3 +10,4 @@ git checkout -b newbranch
 
 Changes were made on a separate branch
 
+changes were made on one file in separate branches, thats why there was a conflict
